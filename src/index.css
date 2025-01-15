@@ -1,0 +1,12 @@
+.mybox {
+  width: 25%;
+  height: 100%;
+  background-color: red;
+  color: white;
+  padding: 15px;
+  margin: 15px;
+}
+
+.container {
+  display: flex;
+}
